@@ -27,11 +27,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/travelplanning.git
+   git clone https://github.com/Sri-Mereti06/compasstravelplanning.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd travelplanning
+   cd compasstravelplanning
    ```
 3. Install the required dependencies:
    ```bash
