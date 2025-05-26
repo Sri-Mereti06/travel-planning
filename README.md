@@ -72,9 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [your.email@example.com](mailto:srinagasahithi06@gmail.com)
 
-Project Link: [https://github.com/yourusername/travelplanning](https://github.com/yourusername/travelplanning)
+Project Link: [https://github.com/yourusername/travelplanning](https://github.com/Sri-Mereti06/travelplanning)
 ```
 
 ### Customization Tips:
